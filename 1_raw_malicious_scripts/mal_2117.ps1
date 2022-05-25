@@ -1,0 +1,1 @@
+echo 'owned'rnstart-process calc.exernstart-sleep -sec 10

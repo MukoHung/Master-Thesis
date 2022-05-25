@@ -1,0 +1,1 @@
+iex ((New-Object System.Net.WebClient).DownloadString("https://gist.githubusercontent.com/pizycki/949a0b2dde34bdb7bcb71c0226d3f107/raw/SpotifyInstall.ps1"))

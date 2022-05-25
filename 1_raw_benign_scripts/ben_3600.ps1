@@ -1,0 +1,1 @@
+Get-ChildItem {dir} [-recurse] [-filter "{filename}"] | Select-String -pattern "{searchPattern}" | group path | select name

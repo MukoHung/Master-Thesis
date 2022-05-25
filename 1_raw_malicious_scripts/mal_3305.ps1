@@ -1,0 +1,1 @@
+powershell del Hello.txt

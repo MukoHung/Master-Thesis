@@ -1,0 +1,1 @@
+Get-Content C:\temp\mylogfile.log -tail 100 –wait | Select-String 'search'

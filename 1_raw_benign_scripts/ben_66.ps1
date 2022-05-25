@@ -1,0 +1,1 @@
+gwmi CIM_operatingsystem|Select PSC*,*j*,v*,@{n='BIOSSerial';e={$_.SerialNumber}}

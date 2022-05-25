@@ -1,0 +1,21 @@
+. .\DotNet35.ps1
+. .\LanguageDK.ps1
+. .\LanguageGB.ps1
+. .\SwitchLanguage.ps1
+. .\Navision2009R2.ps1
+. .\Navision2017.ps1
+. .\RegistryKeys.ps1
+. .\LogonScript.ps1
+. .\SharePointShortcut.ps1
+. .\FSLogix.ps1
+. .\OneDrive.ps1
+. .\Teams.ps1
+. .\Printix.ps1
+. .\ZITTeamviewerQS.ps1
+. .\Office365.ps1
+. .\JetReports.ps1
+. .\SQLNativeClient.ps1
+. .\Chocolatey.ps1
+. .\WindowsUpdate.ps1
+. .\RunNgen.ps1  
+  

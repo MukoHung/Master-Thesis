@@ -1,0 +1,1 @@
+docker images | findstr '<none>' | ForEach-Object{$_.Split(" ",[System.StringSplitOptions]::RemoveEmptyEntries)[2];}| ForEach-Object{docker rmi  $_}

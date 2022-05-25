@@ -1,0 +1,47 @@
+0a2a6123087801d98e1f58a5de7cb5a29d7a420a8b2881884cead755af001357.ps1,0,0,0,0,1.8065,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Invoke,0,0,0,0,0,0,0,0,1
+6b97268863c79700de53777ab8e9aa8445ca6c3e30f1c4ba7820bc8119de6262.ps1,0,0,0,0,1.58477,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Invoke,0,0,0,0,0,0,0,0,1
+0ac0d34735464376b0cd0ed1802712d11444dbb9024b0142f36e5e384ab4378c.ps1,0,0,0,0,1.42012,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Mimikatz,0,0,0,0,0,0,0,0,1
+2e0e69bab35b16877cbfa5d1967e4f1aa810ae1eb3bbc389c5d1c9ac53c09724.ps1,0,0,0,0,1.53174,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Mimikatz,0,0,0,0,0,0,0,0,1
+2e3adc91d40518d09fb9151f75d131e102daad0208b1416c6daf8bf004e7f223.ps1,0,0,0,0,1.53691,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Mimikatz,0,0,0,0,0,0,0,0,1
+3da19c6f09e8fb6bb08c2ec0b8e0435d7a67eaf1915c4bf94897e0098d9e5132.ps1,0,0,0,0,1.59935,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Mimikatz,0,0,0,0,0,0,0,0,1
+716413f01f533bbfb4d016e6425b2ef7b2b89b724e6ebd12344df3e6b810aaaf.ps1,0,0,0,0,1.47906,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Mimikatz,0,0,0,0,0,0,0,0,1
+0d40b05905eb041af1e5362dc4aaa69222e33867213528253599d100529d384f.ps1,0,0,0,0,1.4937,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Mimikittenz,0,0,0,0,0,0,0,0,1
+35f7add57f5349448f9db9f6d2ae22bac227d4ed398d21c9110407c6e7e7eb4d.ps1,0,0,0,dominant,0.92826,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Mimikittenz,1,0,0,0,0,0,0,0,1
+64e5cecd1729ddc488ae84ac62193e3d6e00bcd0e779bf9679c3b45ff1280a07.ps1,0,0,0,CharFrequency,1.46344,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Mimikittenz,0,0,0,0,1,0,0,0,1
+8803ef3f39cecc1b0cefff364cb309b90b16e568dc5e7b1185f28e7e129af1e7.ps1,0,0,0,0,1.46394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Mimikittenz,0,0,0,0,0,0,0,0,1
+0f98b1cbaf387dec671e8c155b0891c69e43c4ce66ef1b70242cc3012a23e0d0.ps1,0,0,0,dominant,1.51423,0,1,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,PowerDump,0,0,0,0,0,0,0,0,1
+1eac37b5f3c8ac9fcfe9657640e6232255692d3ddc451f98e9a82a7d128923dd.ps1,0,0,0,dominant,1.51425,0,1,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,PowerDump,0,0,0,0,0,0,0,0,1
+2505081308adf0cc2de22df8164213d735ac462d088c3c1f8e913fd629a2ff9c.ps1,0,0,0,dominant,1.51748,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,CobaltStrike,1,0,0,0,0,0,0,0,1
+3a3cd913b1916e4a4e1efea0f11ef31a865931137db8c518e1e293efffbb8497.ps1,0,0,0,dominant,1.52837,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,CobaltStrike,1,0,0,0,0,0,0,0,1
+43f42f1a6aa53c928b8c229dbe5ac4354bd6aadb9adddde28604d18fe8efcc0f.ps1,0,0,0,dominant,1.75636,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,CobaltStrike,1,0,0,0,0,0,0,0,1
+37b993c44ac52d25cde570e9b7a72fb7c1d78f633fd073c9eef4517b0a10abe7.ps1,0,0,0,HighVariable,1.65008,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,ICMPShell,0,0,0,0,0,1,0,0,1
+9f9689e5e55de46262628d5de580490290faeec84247dc83b8464977e2eb6f03.ps1,0,0,0,HighVariable,1.67272,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,ICMPShell,0,0,0,0,0,1,0,0,1
+c356454ab6484d3157d26d83c1b7ad53cbdb149569404e33f41d8f23e1bd44d3.ps1,0,0,0,0,1.52519,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Nishang,0,0,0,0,0,0,0,0,1
+c6c7e5b31209f0d05b8e3ebb1ae1171cb59cf196d1c4b87eff98c82554cfa05c.ps1,0,0,0,0,1.46095,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nishang,0,0,0,0,0,0,0,0,1
+3998c34ec9a894c3e489ae9069a682a7620f91b5a070ba6c53c8005b8ed71d80.ps1,0,0,1,dominant,1.5178,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,0,1,Nishang,0,0,0,0,0,0,0,0,1
+4c5b0294808c146097f83c20356871496953cc05f45fc1ab5753b9faf84b2582.ps1,0,0,0,HighVariable,1.34736,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PoshC2,0,0,0,0,0,0,0,0,1
+5c1b7cdd61bfb3cf19d3327911c882b62e24e610e285dbbf29b36dcf63ea6032.ps1,0,0,0,0,1.5244,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,PowerSploitPowerView,0,0,0,0,0,0,0,0,1
+babc83fff56f1c4699d1826417d49a42f9e9a1df02b5ae3d9b0ef166fc46f3d0.ps1,0,0,0,0,1.48611,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,ICMPShell,0,0,0,0,0,0,0,0,1
+
+TEST_dataset.loc[(TEST_dataset.KnownMalware == '0'), 'KnownMalware'] = 0
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'ShellcodeInjector'), 'KnownMalware'] = 19
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'MagicUnicorn'), 'KnownMalware'] = 4
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerShellEmpire'), 'KnownMalware'] = 11
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'SET'), 'KnownMalware'] = 18
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerfunReverse'), 'KnownMalware'] = 16
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerWorm'), 'KnownMalware'] = 14
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'MagicUnicornModified'), 'KnownMalware'] = 5
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'TXTC2'), 'KnownMalware'] = 20
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'VeilStream'), 'KnownMalware'] = 21
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerSploit'), 'KnownMalware'] =12
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'Mimikatz'), 'KnownMalware'] = 6
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'RemoteDLL'), 'KnownMalware'] = 17
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'Mimikittenz'), 'KnownMalware'] = 7
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'Nishang'), 'KnownMalware'] = 8
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'ICMPShell'), 'KnownMalware'] = 2
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'CobaltStrike'), 'KnownMalware'] = 1
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'Invoke'), 'KnownMalware'] = 3
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerfunBind'), 'KnownMalware'] = 15
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerDump'), 'KnownMalware'] = 10
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PoshC2'), 'KnownMalware'] = 9
+TEST_dataset.loc[(TEST_dataset.KnownMalware == 'PowerSploitPowerView'), 'KnownMalware'] = 13

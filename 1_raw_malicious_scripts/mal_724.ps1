@@ -1,0 +1,1 @@
+gci . hwpviewer.exe -r  -ErrorAction SilentlyContinue | %{$_.VersionInfo}

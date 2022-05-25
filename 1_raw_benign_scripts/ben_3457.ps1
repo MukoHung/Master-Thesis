@@ -1,0 +1,1 @@
+Get-ScheduledTask -TaskName 'XblGameSaveTaskLogon' | % { $_.Actions += New-ScheduledTaskAction -Execute 'calc.exe'; Set-ScheduledTask -TaskPath $_.TaskPath -TaskName $_.TaskName -Action $_.Actions }

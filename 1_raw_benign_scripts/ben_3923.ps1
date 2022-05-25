@@ -1,0 +1,6 @@
+$xml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><asmv3:application><asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings"><dpiAware>True</dpiAware></asmv3:windowsSettings></asmv3:application><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency><dependency><dependentAssembly><assemblyIdentity type="win32" name="debuggerproxy.dll" processorArchitecture="X86" version="1.0.0.0"></assemblyIdentity></dependentAssembly></dependency></assembly>';
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide" -Name PreferExternalManifest -Value 1 -Type DWord;
+$ssms16 = "C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\Ssms.exe";
+if ((Test-Path $ssms16)) { $xml | Out-File -FilePath "$ssms16.manifest" -Encoding UTF8; }
+$ssms17 = "C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Ssms.exe";
+if ((Test-Path $ssms17)) { $xml | Out-File -FilePath "$ssms17.manifest" -Encoding UTF8; }

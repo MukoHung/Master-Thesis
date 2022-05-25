@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri https://gist.githubusercontent.com/PlagueHO/64a2fd67489ea22b3ca09cd5bf3a0782/raw/Get-AzureArcOnboardingScript.ps1 -OutFile ~\Get-AzureArcOnboardingScript.ps1

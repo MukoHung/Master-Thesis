@@ -1,0 +1,45 @@
+choco install --timeout=0 `
+    7zip `
+    audacity `
+    autohotkey `
+    calibre `
+    cpu-z `
+    directoryopus `
+    discord `
+    docker-desktop `
+    etcher `
+    firefox `
+    ffmpeg `
+    ghostscript `
+    gimp `
+    git `
+    gnuplot `
+    golang `
+    imageglass `
+    imagemagick `
+    inkscape `
+    julia `
+    javaruntime `
+    joplin `
+    libreoffice-fresh `
+    mattermost-desktop `
+    microsip `
+    microsoft-windows-terminal `
+    nextcloud-client `
+    notepadplusplus `
+    openhardwaremonitor `
+    pandoc `
+    picard `
+    powertoys `
+    python `
+    ripgrep `
+    sharex `
+    strawberryperl `
+    sumatrapdf `
+    telegram `
+    thunderbird `
+    vlc `
+    vscode `
+    wireguard `
+    zotero
+choco install --timeout=0 texlive --params="'/scheme:full'"

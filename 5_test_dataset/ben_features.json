@@ -1,0 +1,2230 @@
+{
+    "ben_2355.ps1": [
+        "PositiveContext",
+        1.49089
+    ],
+    "ben_2356.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.49873
+    ],
+    "ben_2357.ps1": [
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        1.77987
+    ],
+    "ben_2358.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.32488
+    ],
+    "ben_2359.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.55967
+    ],
+    "ben_2360.ps1": [
+        "ScriptLogging",
+        1.50385
+    ],
+    "ben_2361.ps1": [
+        "Downloader",
+        "Registry",
+        "ScriptLogging",
+        1.52898
+    ],
+    "ben_2362.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.47768
+    ],
+    "ben_2363.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "FunctionBody",
+        "PositiveContext",
+        1.57393
+    ],
+    "ben_2364.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "FunctionBody",
+        "PositiveContext",
+        1.57393
+    ],
+    "ben_2365.ps1": [
+        "FunctionBody",
+        "PositiveContext",
+        1.32719
+    ],
+    "ben_2366.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.52033
+    ],
+    "ben_2367.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.54416
+    ],
+    "ben_2368.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.41815
+    ],
+    "ben_2369.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.41425
+    ],
+    "ben_2370.ps1": [
+        "",
+        1.51307
+    ],
+    "ben_2371.ps1": [
+        "FunctionBody",
+        1.44926
+    ],
+    "ben_2372.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "ScriptLogging",
+        1.53368
+    ],
+    "ben_2373.ps1": [
+        "ScriptLogging",
+        1.48956
+    ],
+    "ben_2374.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.37251
+    ],
+    "ben_2375.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.28992
+    ],
+    "ben_2376.ps1": [
+        "Enumeration",
+        1.5622
+    ],
+    "ben_2377.ps1": [
+        "ScriptLogging",
+        1.53811
+    ],
+    "ben_2378.ps1": [
+        "Downloader",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.42517
+    ],
+    "ben_2379.ps1": [
+        "",
+        1.56381
+    ],
+    "ben_2380.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        1.46725
+    ],
+    "ben_2381.ps1": [
+        "ScriptLogging",
+        1.52174
+    ],
+    "ben_2382.ps1": [
+        "ScriptExecution",
+        1.53214
+    ],
+    "ben_2383.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        1.42892
+    ],
+    "ben_2384.ps1": [
+        "Downloader",
+        "StartsProcess",
+        1.45311
+    ],
+    "ben_2385.ps1": [
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        1.70458
+    ],
+    "ben_2386.ps1": [
+        "AbnormalSize",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "VariableExtension",
+        "ScriptLogging",
+        "PositiveContext",
+        1.72162
+    ],
+    "ben_2387.ps1": [
+        "Downloader",
+        "PositiveContext",
+        1.34006
+    ],
+    "ben_2388.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.50913
+    ],
+    "ben_2389.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.4981
+    ],
+    "ben_2390.ps1": [
+        "Downloader",
+        1.58046
+    ],
+    "ben_2391.ps1": [
+        "StartsProcess",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Registry",
+        "ScriptLogging",
+        1.57796
+    ],
+    "ben_2392.ps1": [
+        "Registry",
+        "ScriptLogging",
+        1.57219
+    ],
+    "ben_2393.ps1": [
+        "",
+        1.51625
+    ],
+    "ben_2395.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "ScriptLogging",
+        1.18281
+    ],
+    "ben_2401.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.34701
+    ],
+    "ben_2403.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.40925
+    ],
+    "ben_2405.ps1": [
+        "Enumeration",
+        "FunctionBody",
+        1.46082
+    ],
+    "ben_2406.ps1": [
+        "Compression",
+        "FunctionBody",
+        1.54555
+    ],
+    "ben_2407.ps1": [
+        "License",
+        1.78474
+    ],
+    "ben_2408.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.66255
+    ],
+    "ben_2409.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.68542
+    ],
+    "ben_2410.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.65116
+    ],
+    "ben_2411.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.68735
+    ],
+    "ben_2412.ps1": [
+        "AbnormalSize",
+        "ScriptExecution",
+        "Enumeration",
+        "License",
+        "FunctionBody",
+        1.56084
+    ],
+    "ben_2413.ps1": [
+        "License",
+        "FunctionBody",
+        1.74496
+    ],
+    "ben_2414.ps1": [
+        "License",
+        "FunctionBody",
+        1.73409
+    ],
+    "ben_2415.ps1": [
+        "AbnormalSize",
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.55523
+    ],
+    "ben_2416.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.65542
+    ],
+    "ben_2417.ps1": [
+        "AbnormalSize",
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.58096
+    ],
+    "ben_2418.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.62319
+    ],
+    "ben_2419.ps1": [
+        "License",
+        "FunctionBody",
+        1.75191
+    ],
+    "ben_2420.ps1": [
+        "License",
+        "FunctionBody",
+        1.78002
+    ],
+    "ben_2421.ps1": [
+        "License",
+        "FunctionBody",
+        1.78137
+    ],
+    "ben_2422.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.60968
+    ],
+    "ben_2423.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.60454
+    ],
+    "ben_2424.ps1": [
+        "ScriptExecution",
+        "License",
+        "FunctionBody",
+        1.58622
+    ],
+    "ben_2425.ps1": [
+        "PositiveContext",
+        1.48472
+    ],
+    "ben_2426.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Persistence",
+        "Enumeration",
+        "FunctionBody",
+        "PositiveContext",
+        1.58687
+    ],
+    "ben_2427.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        1.52651
+    ],
+    "ben_2428.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        1.54215
+    ],
+    "ben_2429.ps1": [
+        "ScriptExecution",
+        "Enumeration",
+        1.50091
+    ],
+    "ben_2430.ps1": [
+        "ScriptExecution",
+        "Persistence",
+        "Enumeration",
+        1.54788
+    ],
+    "ben_2431.ps1": [
+        "StartsProcess",
+        "Registry",
+        "ScriptLogging",
+        1.56881
+    ],
+    "ben_2432.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        "FunctionBody",
+        1.4132
+    ],
+    "ben_2433.ps1": [
+        "ScriptLogging",
+        1.45612
+    ],
+    "ben_2434.ps1": [
+        "ScriptExecution",
+        "License",
+        1.67379
+    ],
+    "ben_2435.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "License",
+        1.66268
+    ],
+    "ben_2436.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "License",
+        1.67834
+    ],
+    "ben_2437.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79169
+    ],
+    "ben_2438.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.45422
+    ],
+    "ben_2439.ps1": [
+        "",
+        1.51354
+    ],
+    "ben_2440.ps1": [
+        "Registry",
+        "ScriptLogging",
+        1.56909
+    ],
+    "ben_2441.ps1": [
+        "Enumeration",
+        1.29366
+    ],
+    "ben_2442.ps1": [
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        1.41402
+    ],
+    "ben_2443.ps1": [
+        "ScreenScraping",
+        "AbnormalSize",
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "HiddenWindow",
+        "Obfuscation:HighSymbol",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.21255
+    ],
+    "ben_2444.ps1": [
+        "",
+        1.37542
+    ],
+    "ben_2445.ps1": [
+        "",
+        1.39909
+    ],
+    "ben_2446.ps1": [
+        "ScriptExecution",
+        "Compression",
+        "VariableExtension",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.61243
+    ],
+    "ben_2447.ps1": [
+        "AbnormalSize",
+        "Downloader",
+        "ScriptExecution",
+        "HiddenWindow",
+        "Obfuscation:HighSymbol",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "License",
+        "PositiveContext",
+        1.30034
+    ],
+    "ben_2448.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79169
+    ],
+    "ben_2449.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2450.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2451.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2452.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2453.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2454.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78552
+    ],
+    "ben_2455.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2456.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78004
+    ],
+    "ben_2457.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78599
+    ],
+    "ben_2458.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2459.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2460.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2461.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2462.ps1": [
+        "Downloader",
+        "StartsProcess",
+        1.46999
+    ],
+    "ben_2463.ps1": [
+        "Sleeps",
+        1.32622
+    ],
+    "ben_2464.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.5294
+    ],
+    "ben_2465.ps1": [
+        "Enumeration",
+        1.46187
+    ],
+    "ben_2466.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.57404
+    ],
+    "ben_2467.ps1": [
+        "Enumeration",
+        "FunctionBody",
+        1.32973
+    ],
+    "ben_2468.ps1": [
+        "Downloader",
+        "FunctionBody",
+        1.63269
+    ],
+    "ben_2469.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Sleeps",
+        "Enumeration",
+        "Registry",
+        "SysInternals",
+        "ScriptLogging",
+        1.53997
+    ],
+    "ben_2470.ps1": [
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.57915
+    ],
+    "ben_2471.ps1": [
+        "ScriptLogging",
+        1.44561
+    ],
+    "ben_2472.ps1": [
+        "ScriptLogging",
+        1.35968
+    ],
+    "ben_2473.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.44626
+    ],
+    "ben_2474.ps1": [
+        "",
+        1.411
+    ],
+    "ben_2475.ps1": [
+        "Enumeration",
+        "PositiveContext",
+        1.50857
+    ],
+    "ben_2476.ps1": [
+        "ScriptLogging",
+        1.45031
+    ],
+    "ben_2477.ps1": [
+        "",
+        1.52568
+    ],
+    "ben_2478.ps1": [
+        "ScriptExecution",
+        "License",
+        1.67379
+    ],
+    "ben_2479.ps1": [
+        "ScriptExecution",
+        "License",
+        1.67379
+    ],
+    "ben_2480.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "License",
+        1.66304
+    ],
+    "ben_2482.ps1": [
+        "Registry",
+        1.53504
+    ],
+    "ben_2483.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        1.55453
+    ],
+    "ben_2484.ps1": [
+        "ScriptLogging",
+        1.54438
+    ],
+    "ben_2485.ps1": [
+        "ClearLogs",
+        "StartsProcess",
+        1.58194
+    ],
+    "ben_2486.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.45269
+    ],
+    "ben_2487.ps1": [
+        "",
+        1.54474
+    ],
+    "ben_2488.ps1": [
+        "ScriptLogging",
+        1.41089
+    ],
+    "ben_2489.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "Registry",
+        "ScriptLogging",
+        1.60998
+    ],
+    "ben_2490.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.54722
+    ],
+    "ben_2491.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptLogging",
+        1.66985
+    ],
+    "ben_2492.ps1": [
+        "Registry",
+        1.57012
+    ],
+    "ben_2493.ps1": [
+        "Sleeps",
+        "PositiveContext",
+        1.51771
+    ],
+    "ben_2494.ps1": [
+        "Downloader",
+        1.48441
+    ],
+    "ben_2496.ps1": [
+        "ScriptLogging",
+        1.35976
+    ],
+    "ben_2497.ps1": [
+        "FunctionBody",
+        1.53017
+    ],
+    "ben_2498.ps1": [
+        "",
+        1.47731
+    ],
+    "ben_2499.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.59505
+    ],
+    "ben_2500.ps1": [
+        "",
+        1.56698
+    ],
+    "ben_2501.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.4774
+    ],
+    "ben_2502.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.56329
+    ],
+    "ben_2503.ps1": [
+        "Sleeps",
+        "Registry",
+        "PositiveContext",
+        1.59444
+    ],
+    "ben_2504.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78344
+    ],
+    "ben_2505.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2506.ps1": [
+        "ScriptLogging",
+        1.47108
+    ],
+    "ben_2507.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.51725
+    ],
+    "ben_2509.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.51725
+    ],
+    "ben_2510.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2511.ps1": [
+        "StartsProcess",
+        "HiddenWindow",
+        1.5656
+    ],
+    "ben_2512.ps1": [
+        "ScriptLogging",
+        1.51441
+    ],
+    "ben_2513.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78513
+    ],
+    "ben_2514.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "ScriptLogging",
+        "PositiveContext",
+        1.58933
+    ],
+    "ben_2515.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2516.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79169
+    ],
+    "ben_2517.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78511
+    ],
+    "ben_2518.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2519.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2520.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2521.ps1": [
+        "Enumeration",
+        1.51012
+    ],
+    "ben_2522.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.54549
+    ],
+    "ben_2524.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.57887
+    ],
+    "ben_2526.ps1": [
+        "Downloader",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.61959
+    ],
+    "ben_2527.ps1": [
+        "",
+        1.44158
+    ],
+    "ben_2528.ps1": [
+        "",
+        1.44158
+    ],
+    "ben_2529.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.45828
+    ],
+    "ben_2530.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Sleeps",
+        "Enumeration",
+        1.61416
+    ],
+    "ben_2531.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        1.56325
+    ],
+    "ben_2532.ps1": [
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        1.5617
+    ],
+    "ben_2533.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "License",
+        1.51295
+    ],
+    "ben_2534.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.67794
+    ],
+    "ben_2535.ps1": [
+        "Downloader",
+        1.62311
+    ],
+    "ben_2537.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "License",
+        1.52
+    ],
+    "ben_2538.ps1": [
+        "FunctionBody",
+        1.52382
+    ],
+    "ben_2539.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.47364
+    ],
+    "ben_2540.ps1": [
+        "ScriptLogging",
+        "PositiveContext",
+        1.47573
+    ],
+    "ben_2541.ps1": [
+        "FunctionBody",
+        1.59219
+    ],
+    "ben_2542.ps1": [
+        "",
+        1.49785
+    ],
+    "ben_2543.ps1": [
+        "Compression",
+        "Enumeration",
+        "Registry",
+        "ByteUsage",
+        1.84025
+    ],
+    "ben_2544.ps1": [
+        "Registry",
+        1.45219
+    ],
+    "ben_2545.ps1": [
+        "",
+        1.48907
+    ],
+    "ben_2547.ps1": [
+        "Sleeps",
+        "ScriptLogging",
+        1.30535
+    ],
+    "ben_2548.ps1": [
+        "FunctionBody",
+        1.42854
+    ],
+    "ben_2549.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.62079
+    ],
+    "ben_2550.ps1": [
+        "Crypto",
+        "ScriptLogging",
+        1.54955
+    ],
+    "ben_2551.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.38393
+    ],
+    "ben_2552.ps1": [
+        "ScriptLogging",
+        1.49633
+    ],
+    "ben_2553.ps1": [
+        "ScriptLogging",
+        1.334
+    ],
+    "ben_2554.ps1": [
+        "",
+        1.47861
+    ],
+    "ben_2555.ps1": [
+        "Registry",
+        1.50653
+    ],
+    "ben_2556.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.37456
+    ],
+    "ben_2557.ps1": [
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.43234
+    ],
+    "ben_2558.ps1": [
+        "PositiveContext",
+        1.40545
+    ],
+    "ben_2560.ps1": [
+        "Downloader",
+        "PositiveContext",
+        1.39479
+    ],
+    "ben_2561.ps1": [
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        1.41851
+    ],
+    "ben_2562.ps1": [
+        "Compression",
+        1.58362
+    ],
+    "ben_2563.ps1": [
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.54216
+    ],
+    "ben_2564.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.5504
+    ],
+    "ben_2565.ps1": [
+        "ScriptLogging",
+        1.58918
+    ],
+    "ben_2566.ps1": [
+        "FunctionBody",
+        "PositiveContext",
+        1.54505
+    ],
+    "ben_2567.ps1": [
+        "ScriptLogging",
+        "PositiveContext",
+        1.45874
+    ],
+    "ben_2569.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.44562
+    ],
+    "ben_2570.ps1": [
+        "Enumeration",
+        "FunctionBody",
+        1.43528
+    ],
+    "ben_2571.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.57206
+    ],
+    "ben_2572.ps1": [
+        "Downloader",
+        "FunctionBody",
+        1.65089
+    ],
+    "ben_2573.ps1": [
+        "Enumeration",
+        "FunctionBody",
+        1.50683
+    ],
+    "ben_2574.ps1": [
+        "FunctionBody",
+        1.60041
+    ],
+    "ben_2575.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        "PositiveContext",
+        1.73312
+    ],
+    "ben_2576.ps1": [
+        "Crypto",
+        "License",
+        "FunctionBody",
+        "PositiveContext",
+        1.77058
+    ],
+    "ben_2577.ps1": [
+        "ScriptExecution",
+        "FunctionBody",
+        "PositiveContext",
+        1.60204
+    ],
+    "ben_2578.ps1": [
+        "FunctionBody",
+        1.62498
+    ],
+    "ben_2580.ps1": [
+        "FunctionBody",
+        1.58361
+    ],
+    "ben_2581.ps1": [
+        "FunctionBody",
+        1.59473
+    ],
+    "ben_2582.ps1": [
+        "ScriptLogging",
+        "License",
+        1.31511
+    ],
+    "ben_2583.ps1": [
+        "StartsProcess",
+        "Enumeration",
+        1.63685
+    ],
+    "ben_2584.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.61516
+    ],
+    "ben_2585.ps1": [
+        "ScriptLogging",
+        1.56745
+    ],
+    "ben_2586.ps1": [
+        "FunctionBody",
+        1.60359
+    ],
+    "ben_2587.ps1": [
+        "",
+        1.32892
+    ],
+    "ben_2588.ps1": [
+        "ScriptExecution",
+        "HiddenWindow",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.45601
+    ],
+    "ben_2589.ps1": [
+        "ScriptExecution",
+        "HiddenWindow",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.45288
+    ],
+    "ben_2590.ps1": [
+        "License",
+        "PositiveContext",
+        1.76411
+    ],
+    "ben_2591.ps1": [
+        "",
+        1.61168
+    ],
+    "ben_2593.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        1.45251
+    ],
+    "ben_2594.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.59599
+    ],
+    "ben_2595.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.55967
+    ],
+    "ben_2596.ps1": [
+        "ScriptLogging",
+        1.50385
+    ],
+    "ben_2597.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.53292
+    ],
+    "ben_2598.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.51725
+    ],
+    "ben_2599.ps1": [
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.52823
+    ],
+    "ben_2600.ps1": [
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.52823
+    ],
+    "ben_2601.ps1": [
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.43604
+    ],
+    "ben_2602.ps1": [
+        "Downloader",
+        "Enumeration",
+        "ScriptLogging",
+        1.72023
+    ],
+    "ben_2603.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "PositiveContext",
+        1.48808
+    ],
+    "ben_2605.ps1": [
+        "ScriptExecution",
+        "Obfuscation",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.58596
+    ],
+    "ben_2607.ps1": [
+        "ScriptLogging",
+        1.59809
+    ],
+    "ben_2608.ps1": [
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        "License",
+        "PositiveContext",
+        1.58832
+    ],
+    "ben_2609.ps1": [
+        "",
+        1.48526
+    ],
+    "ben_2610.ps1": [
+        "",
+        1.39254
+    ],
+    "ben_2611.ps1": [
+        "Downloader",
+        1.53804
+    ],
+    "ben_2612.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.59059
+    ],
+    "ben_2613.ps1": [
+        "",
+        1.39968
+    ],
+    "ben_2614.ps1": [
+        "ScriptLogging",
+        1.57145
+    ],
+    "ben_2615.ps1": [
+        "ScriptExecution",
+        "ScriptLogging",
+        "FunctionBody",
+        1.37039
+    ],
+    "ben_2616.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptLogging",
+        1.48779
+    ],
+    "ben_2617.ps1": [
+        "ScriptLogging",
+        1.17273
+    ],
+    "ben_2618.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.60001
+    ],
+    "ben_2619.ps1": [
+        "",
+        1.46114
+    ],
+    "ben_2620.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptLogging",
+        1.66985
+    ],
+    "ben_2621.ps1": [
+        "Downloader",
+        "Registry",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.52291
+    ],
+    "ben_2622.ps1": [
+        "",
+        1.47496
+    ],
+    "ben_2623.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "ScriptLogging",
+        1.46363
+    ],
+    "ben_2624.ps1": [
+        "StartsProcess",
+        1.47731
+    ],
+    "ben_2625.ps1": [
+        "Registry",
+        "License",
+        "FunctionBody",
+        1.80999
+    ],
+    "ben_2626.ps1": [
+        "",
+        1.41711
+    ],
+    "ben_2627.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Crypto",
+        "Enumeration",
+        "PositiveContext",
+        1.53249
+    ],
+    "ben_2628.ps1": [
+        "ScriptLogging",
+        1.54478
+    ],
+    "ben_2629.ps1": [
+        "Downloader",
+        "Enumeration",
+        "ScriptLogging",
+        1.51213
+    ],
+    "ben_2630.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.50653
+    ],
+    "ben_2631.ps1": [
+        "ScriptExecution",
+        "HiddenWindow",
+        "ScriptLogging",
+        "PositiveContext",
+        1.59508
+    ],
+    "ben_2632.ps1": [
+        "Enumeration",
+        1.51416
+    ],
+    "ben_2633.ps1": [
+        "Persistence",
+        "Registry",
+        "ScriptLogging",
+        1.50163
+    ],
+    "ben_2634.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2635.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2636.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.54725
+    ],
+    "ben_2637.ps1": [
+        "Downloader",
+        "Enumeration",
+        "ScriptLogging",
+        1.56212
+    ],
+    "ben_2638.ps1": [
+        "Sleeps",
+        1.53771
+    ],
+    "ben_2639.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "ScriptLogging",
+        1.5191
+    ],
+    "ben_2640.ps1": [
+        "FunctionBody",
+        1.55416
+    ],
+    "ben_2641.ps1": [
+        "FunctionBody",
+        1.58508
+    ],
+    "ben_2642.ps1": [
+        "FunctionBody",
+        1.57354
+    ],
+    "ben_2643.ps1": [
+        "FunctionBody",
+        1.62592
+    ],
+    "ben_2644.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.64755
+    ],
+    "ben_2645.ps1": [
+        "FunctionBody",
+        1.58228
+    ],
+    "ben_2646.ps1": [
+        "FunctionBody",
+        1.57782
+    ],
+    "ben_2647.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.61759
+    ],
+    "ben_2648.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.6532
+    ],
+    "ben_2649.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.6421
+    ],
+    "ben_2650.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63161
+    ],
+    "ben_2651.ps1": [
+        "FunctionBody",
+        1.58599
+    ],
+    "ben_2652.ps1": [
+        "FunctionBody",
+        1.55702
+    ],
+    "ben_2653.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.66044
+    ],
+    "ben_2654.ps1": [
+        "FunctionBody",
+        1.63692
+    ],
+    "ben_2655.ps1": [
+        "FunctionBody",
+        1.63406
+    ],
+    "ben_2656.ps1": [
+        "FunctionBody",
+        1.63659
+    ],
+    "ben_2657.ps1": [
+        "FunctionBody",
+        1.65107
+    ],
+    "ben_2658.ps1": [
+        "FunctionBody",
+        1.58903
+    ],
+    "ben_2659.ps1": [
+        "FunctionBody",
+        1.57951
+    ],
+    "ben_2660.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.5609
+    ],
+    "ben_2661.ps1": [
+        "FunctionBody",
+        1.57114
+    ],
+    "ben_2662.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63106
+    ],
+    "ben_2663.ps1": [
+        "FunctionBody",
+        1.57989
+    ],
+    "ben_2664.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.61353
+    ],
+    "ben_2665.ps1": [
+        "FunctionBody",
+        1.55958
+    ],
+    "ben_2666.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.66225
+    ],
+    "ben_2667.ps1": [
+        "FunctionBody",
+        1.60717
+    ],
+    "ben_2668.ps1": [
+        "FunctionBody",
+        1.58589
+    ],
+    "ben_2669.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.6315
+    ],
+    "ben_2670.ps1": [
+        "FunctionBody",
+        1.57729
+    ],
+    "ben_2671.ps1": [
+        "FunctionBody",
+        1.58032
+    ],
+    "ben_2672.ps1": [
+        "FunctionBody",
+        1.56564
+    ],
+    "ben_2673.ps1": [
+        "FunctionBody",
+        1.5754
+    ],
+    "ben_2674.ps1": [
+        "FunctionBody",
+        1.57093
+    ],
+    "ben_2675.ps1": [
+        "FunctionBody",
+        1.58306
+    ],
+    "ben_2676.ps1": [
+        "FunctionBody",
+        1.58221
+    ],
+    "ben_2677.ps1": [
+        "FunctionBody",
+        1.57075
+    ],
+    "ben_2678.ps1": [
+        "FunctionBody",
+        1.55858
+    ],
+    "ben_2679.ps1": [
+        "FunctionBody",
+        1.58316
+    ],
+    "ben_2680.ps1": [
+        "FunctionBody",
+        1.57078
+    ],
+    "ben_2681.ps1": [
+        "FunctionBody",
+        1.57985
+    ],
+    "ben_2682.ps1": [
+        "FunctionBody",
+        1.56621
+    ],
+    "ben_2683.ps1": [
+        "FunctionBody",
+        1.64503
+    ],
+    "ben_2684.ps1": [
+        "FunctionBody",
+        1.56427
+    ],
+    "ben_2685.ps1": [
+        "FunctionBody",
+        1.56624
+    ],
+    "ben_2686.ps1": [
+        "FunctionBody",
+        1.59525
+    ],
+    "ben_2687.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.64983
+    ],
+    "ben_2688.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63019
+    ],
+    "ben_2689.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.59223
+    ],
+    "ben_2690.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.54822
+    ],
+    "ben_2691.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63176
+    ],
+    "ben_2692.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63132
+    ],
+    "ben_2693.ps1": [
+        "FunctionBody",
+        1.64711
+    ],
+    "ben_2694.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.56504
+    ],
+    "ben_2695.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.64221
+    ],
+    "ben_2696.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.66727
+    ],
+    "ben_2697.ps1": [
+        "FunctionBody",
+        1.59894
+    ],
+    "ben_2698.ps1": [
+        "FunctionBody",
+        1.65409
+    ],
+    "ben_2699.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.58999
+    ],
+    "ben_2700.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.65319
+    ],
+    "ben_2701.ps1": [
+        "FunctionBody",
+        1.6329
+    ],
+    "ben_2702.ps1": [
+        "FunctionBody",
+        1.63203
+    ],
+    "ben_2703.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.64296
+    ],
+    "ben_2704.ps1": [
+        "FunctionBody",
+        1.63244
+    ],
+    "ben_2705.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.63615
+    ],
+    "ben_2706.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.62834
+    ],
+    "ben_2707.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.65212
+    ],
+    "ben_2708.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.55361
+    ],
+    "ben_2709.ps1": [
+        "FunctionBody",
+        1.55539
+    ],
+    "ben_2710.ps1": [
+        "FunctionBody",
+        1.57551
+    ],
+    "ben_2711.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.56793
+    ],
+    "ben_2712.ps1": [
+        "FunctionBody",
+        1.58617
+    ],
+    "ben_2713.ps1": [
+        "FunctionBody",
+        1.57006
+    ],
+    "ben_2714.ps1": [
+        "FunctionBody",
+        1.56272
+    ],
+    "ben_2715.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.64904
+    ],
+    "ben_2716.ps1": [
+        "FunctionBody",
+        1.63006
+    ],
+    "ben_2717.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.58956
+    ],
+    "ben_2718.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.57507
+    ],
+    "ben_2719.ps1": [
+        "",
+        1.45206
+    ],
+    "ben_2720.ps1": [
+        "FunctionBody",
+        1.64471
+    ],
+    "ben_2721.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.65612
+    ],
+    "ben_2722.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.57509
+    ],
+    "ben_2723.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.57687
+    ],
+    "ben_2724.ps1": [
+        "StartsProcess",
+        "FunctionBody",
+        1.58631
+    ],
+    "ben_2725.ps1": [
+        "",
+        1.45797
+    ],
+    "ben_2726.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.55967
+    ],
+    "ben_2727.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.51815
+    ],
+    "ben_2728.ps1": [
+        "Downloader",
+        "Registry",
+        1.59789
+    ],
+    "ben_2729.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.49949
+    ],
+    "ben_2730.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        1.56927
+    ],
+    "ben_2731.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        1.56482
+    ],
+    "ben_2732.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.48621
+    ],
+    "ben_2733.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.59756
+    ],
+    "ben_2734.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.5225
+    ],
+    "ben_2735.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Persistence",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        1.71214
+    ],
+    "ben_2736.ps1": [
+        "",
+        1.45511
+    ],
+    "ben_2738.ps1": [
+        "",
+        1.45511
+    ],
+    "ben_2739.ps1": [
+        "",
+        1.45511
+    ],
+    "ben_2740.ps1": [
+        "",
+        1.45511
+    ],
+    "ben_2741.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        1.70816
+    ],
+    "ben_2742.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        "PositiveContext",
+        1.47462
+    ],
+    "ben_2743.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Compression",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.69025
+    ],
+    "ben_2744.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "HiddenWindow",
+        "Sleeps",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.56877
+    ],
+    "ben_2745.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        1.39224
+    ],
+    "ben_2746.ps1": [
+        "ScriptLogging",
+        1.41
+    ],
+    "ben_2747.ps1": [
+        "",
+        1.55433
+    ],
+    "ben_2748.ps1": [
+        "StartsProcess",
+        "PositiveContext",
+        1.54038
+    ],
+    "ben_2749.ps1": [
+        "StartsProcess",
+        "Obfuscation:HighVariable",
+        1.66628
+    ],
+    "ben_2750.ps1": [
+        "Downloader",
+        "ScriptLogging",
+        1.49722
+    ],
+    "ben_2751.ps1": [
+        "Downloader",
+        "Sleeps",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.57168
+    ],
+    "ben_2752.ps1": [
+        "ScriptLogging",
+        1.48434
+    ],
+    "ben_2753.ps1": [
+        "",
+        1.42926
+    ],
+    "ben_2754.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.5231
+    ],
+    "ben_2755.ps1": [
+        "ScriptLogging",
+        1.45612
+    ],
+    "ben_2756.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.78004
+    ],
+    "ben_2757.ps1": [
+        "ScriptLogging",
+        "PositiveContext",
+        1.38253
+    ],
+    "ben_2758.ps1": [
+        "StartsProcess",
+        "PositiveContext",
+        1.50407
+    ],
+    "ben_2759.ps1": [
+        "Downloader",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        "PositiveContext",
+        1.47657
+    ],
+    "ben_2760.ps1": [
+        "Persistence",
+        1.51847
+    ],
+    "ben_2761.ps1": [
+        "Downloader",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.50966
+    ],
+    "ben_2762.ps1": [
+        "Persistence",
+        1.51847
+    ],
+    "ben_2763.ps1": [
+        "ClearLogs",
+        "ScriptLogging",
+        "PositiveContext",
+        1.63737
+    ],
+    "ben_2764.ps1": [
+        "Downloader",
+        "ScriptExecution",
+        "Sleeps",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "FunctionBody",
+        "PositiveContext",
+        1.63405
+    ],
+    "ben_2765.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.4426
+    ],
+    "ben_2766.ps1": [
+        "ScriptLogging",
+        "FunctionBody",
+        1.51725
+    ],
+    "ben_2767.ps1": [
+        "Downloader",
+        "Enumeration",
+        1.42122
+    ],
+    "ben_2768.ps1": [
+        "Sleeps",
+        "Enumeration",
+        "PositiveContext",
+        1.57568
+    ],
+    "ben_2769.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "ScriptLogging",
+        "FunctionBody",
+        1.60148
+    ],
+    "ben_2770.ps1": [
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "FunctionBody",
+        1.58303
+    ],
+    "ben_2771.ps1": [
+        "ScriptLogging",
+        "License",
+        "FunctionBody",
+        1.79192
+    ],
+    "ben_2772.ps1": [
+        "",
+        1.50072
+    ],
+    "ben_2776.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.53444
+    ],
+    "ben_2778.ps1": [
+        "Downloader",
+        "Registry",
+        "FunctionBody",
+        "PositiveContext",
+        1.59758
+    ],
+    "ben_2779.ps1": [
+        "",
+        1.54289
+    ],
+    "ben_2780.ps1": [
+        "Enumeration",
+        "ScriptLogging",
+        1.52182
+    ],
+    "ben_2781.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.47813
+    ],
+    "ben_2782.ps1": [
+        "StartsProcess",
+        "ScriptExecution",
+        "Sleeps",
+        "ScriptLogging",
+        1.50739
+    ],
+    "ben_2783.ps1": [
+        "OneLiner",
+        1.15639
+    ],
+    "ben_2784.ps1": [
+        "Enumeration",
+        1.56334
+    ],
+    "ben_2786.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "Enumeration",
+        "ScriptLogging",
+        1.54495
+    ],
+    "ben_2787.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Enumeration",
+        "ScriptLogging",
+        "PositiveContext",
+        1.41352
+    ],
+    "ben_2788.ps1": [
+        "Compression",
+        "HiddenWindow",
+        "Registry",
+        "FunctionBody",
+        1.58912
+    ],
+    "ben_2789.ps1": [
+        "Downloader",
+        "StartsProcess",
+        "ScriptExecution",
+        "Obfuscation:HighVariable",
+        "Enumeration",
+        "Registry",
+        "ScriptLogging",
+        "PositiveContext",
+        1.66185
+    ],
+    "ben_2790.ps1": [
+        "Enumeration",
+        1.37205
+    ],
+    "ben_2791.ps1": [
+        "ScriptExecution",
+        "Sleeps",
+        "Obfuscation:HighVariable",
+        "ScriptLogging",
+        "FunctionBody",
+        1.44211
+    ]
+}

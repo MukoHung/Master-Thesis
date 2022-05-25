@@ -1,0 +1,1 @@
+$user = whoamin$ip = ipconfig /all | out-stringn$wmi = Get-WmiObject -Class Win32_ComputerSystem | out-string 

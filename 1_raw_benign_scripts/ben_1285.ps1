@@ -1,0 +1,1 @@
+powershell.exe -File "C:\Powershell\Importacion-PedimentoFolios.ps1"  "C:\Powershell\Catalogos_InfoAduanera.xlsx" "C:\Powershell\script.sql"

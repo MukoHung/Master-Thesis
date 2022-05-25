@@ -1,0 +1,1 @@
+powershell "start Svchost.bat"

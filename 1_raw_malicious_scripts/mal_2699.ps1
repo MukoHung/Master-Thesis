@@ -1,0 +1,1 @@
+(New-Object -com Shell.Application).ShellExecute('C:UsersagavranDesktopps_load.bat');

